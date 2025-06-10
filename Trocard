@@ -5,3 +5,6 @@ git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/trocard-app.git
 git push -u origin main
+git add requirements.txt
+git commit -m "Add requirements.txt for deployment"
+git push
