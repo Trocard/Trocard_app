@@ -8,3 +8,9 @@ git push -u origin main
 git add requirements.txt
 git commit -m "Add requirements.txt for deployment"
 git push
+
+Trocard_app/
+├── app.py
+├── requirements.txt
+├── templates/
+├── static/
